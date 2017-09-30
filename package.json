@@ -1,0 +1,28 @@
+{
+  "name": "user-story-editor-frontend",
+  "version": "1.0.0",
+  "description": "Online editor for create and storage user stories.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user-story-editor/frontend.git"
+  },
+  "keywords": [
+    "user-stories"
+  ],
+  "author": "Denis Akulov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user-story-editor/frontend/issues"
+  },
+  "homepage": "https://github.com/user-story-editor/frontend#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
